@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uobpomtvie.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-12-01T08:48:45.047Z</updated>
+    <title>uobpomtvie</title>
+    <updated>2020-12-01T09:29:50.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uobpomtvie.github.io"/>
     <link rel="self" href="https://uobpomtvie.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>见证自己的成长!</subtitle>
     <logo>https://uobpomtvie.github.io/images/avatar.png</logo>
     <icon>https://uobpomtvie.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, uobpomtvie</rights>
     <entry>
         <title type="html"><![CDATA[新的开始]]></title>
         <id>https://uobpomtvie.github.io/post/xin-de-kai-shi/</id>
         <link href="https://uobpomtvie.github.io/post/xin-de-kai-shi/">
         </link>
         <updated>2020-12-01T08:45:51.000Z</updated>
-        <content type="html"><![CDATA[<p>请坚持下去!</p>
-]]></content>
     </entry>
 </feed>
