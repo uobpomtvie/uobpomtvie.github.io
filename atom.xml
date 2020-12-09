@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uobpomtvie.github.io</id>
     <title>uobpomtvie</title>
-    <updated>2020-12-01T09:31:49.221Z</updated>
+    <updated>2020-12-09T09:10:29.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uobpomtvie.github.io"/>
     <link rel="self" href="https://uobpomtvie.github.io/atom.xml"/>
@@ -10,11 +10,4 @@
     <logo>https://uobpomtvie.github.io/images/avatar.png</logo>
     <icon>https://uobpomtvie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, uobpomtvie</rights>
-    <entry>
-        <title type="html"><![CDATA[新的开始]]></title>
-        <id>https://uobpomtvie.github.io/post/xin-de-kai-shi/</id>
-        <link href="https://uobpomtvie.github.io/post/xin-de-kai-shi/">
-        </link>
-        <updated>2020-12-01T08:45:51.000Z</updated>
-    </entry>
 </feed>
